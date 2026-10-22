@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Echo Updates</title>
+    <link>https://github.com/gambidrissi-dev/Echo-Share</link>
+    <description>Mises à jour de Echo</description>
+    <item>
+      <title>Version 0.1.0</title>
+      <description><![CDATA[
+<h3>Echo 0.1.0 : première version</h3>
+<p>Tes flux RSS, Atom et JSON Feed au même endroit, avec le texte complet des articles, affiché sans script.</p>
+<p>- Ajoute un site par son adresse : Echo trouve le flux tout seul. - Reprends tes sources d'Édition, ou d'un autre lecteur par un fichier OPML. - Le résumé du jour en tête d'Aujourd'hui, rédigé sur ton Mac par le modèle d'Apple. - Pages suivies : une recherche d'annonces ou une fiche produit sans flux, avec prix cible. - Notifications par source, regroupées, avec des heures de silence. - Au clavier : J et K pour passer d'un article à l'autre, M lu, S favori, O ouvrir sur le site.</p>
+<p>Les newsletters par adresse Echo et la synchro avec l'iPhone arrivent dans une prochaine version.</p>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 19:08:39 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Echo-Share/releases/download/v0.1.0/Echo-0.1.0.zip"
+                 sparkle:edSignature="5s67WI3CC0ljdt0NvjnimdjviVtOnXYE+t4zAD9keb9qiyy2BW8PLuSeuTsHvfSVsGNZI7tZVf6xbDQ9d48UCg=="
+                 length="2379283"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
